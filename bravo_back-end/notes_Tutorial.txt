@@ -19,6 +19,7 @@ thank_you.html
 
 I have started modifying these files to use for our website.
 
+FONT USE
 I am working on the HTML Template for the Certificate.
 Using Open Source Font from Google titled:
    font-family: 'Meie Script', cursive;
