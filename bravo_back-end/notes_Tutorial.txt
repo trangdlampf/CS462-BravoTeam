@@ -1,0 +1,8 @@
+Summary: 
+I am researching how to createa  Certificate to PDF to Email.
+Notes on Creating a Webpage that can be turned to an Email using PHP
+
+Sources of Tutorial:
+https://www.quackit.com/html/codes/html_form_to_email.cfm
+
+It uses 4 files:
