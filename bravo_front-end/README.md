@@ -1,3 +1,12 @@
+## Downloading and Configuring
+
+To test this project with a dev server, do the following:
+1) clone the repo to your local environment
+2) run "npm install"
+3) run "npm start" as defined below
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
